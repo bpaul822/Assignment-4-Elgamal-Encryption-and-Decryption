@@ -144,6 +144,7 @@ unsigned long long  int main()
 
     fclose(inp1);
     fclose(inp2);
-    return 0;
     getch();
+    return 0;
+
 }
