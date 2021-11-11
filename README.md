@@ -7,8 +7,8 @@ Procedure for running on windows:
 1. Copy the files plain_text.txt,cipher_text1.txt,cipher_text2.txt,result.txt in the run directory
 2. Give any input string for encryption in the file plain_text.txt
 3. Use the .exe in gitfolder or
-compile using a IDE such as CodeBlocks
-4. Result will be written to result.txt file
+compile main.c using a IDE such as CodeBlocks
+4. Encrypted output will be written to cipher_text1.txt,cipher_text2.txt and Decryption output will be written to result.txt file
 
 Procedure for running on Linux:
 
@@ -17,4 +17,4 @@ Procedure for running on Linux:
 3. Comment out the getch() in line 147
 4. gcc -lm assign4.c -o assign4
 5. ./assign4
-6. Result will be written to result.txt file
+6. Encrypted output will be written to cipher_text1.txt,cipher_text2.txt and Decryption output will be written to result.txt file
