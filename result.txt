@@ -1,0 +1,1 @@
+Demo of Elgamal Crypto for any strings,0123456789!
