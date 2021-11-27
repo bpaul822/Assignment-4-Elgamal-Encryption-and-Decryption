@@ -1,6 +1,7 @@
 # Assignment-4-Elgamal-Encryption-and-Decryption
 
 Bibin Paul EE19M508 bibin.paul.c@gmail.com
+
 Sample Output Obtained from the Code can be seen in result.txt file. Snap is shown below.
 ![image](https://user-images.githubusercontent.com/31993863/143671050-3818acbe-6d0c-4b3a-a9d6-e0fbcb6d3eff.png)
 
